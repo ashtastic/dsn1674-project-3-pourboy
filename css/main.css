@@ -10,3 +10,8 @@ body {
 	font-family: 'Open Sans', sans-serif;
 	margin: 0;
 }
+
+h3 {
+	text-transform: uppercase;
+	font-weight: 600/800/400;
+}
