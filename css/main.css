@@ -22,6 +22,87 @@ h1 {
 	text-align: center;
 }
 
+nav li {
+	float: left;
+	margin: 0;
+	width: 25%;
+	text-align: center;
+}
+
+nav {
+	float: left;
+	overflow: hidden;
+	width: 100%;
+}
+
+nav ul {
+	padding: 0;
+	margin: 0;
+	list-style-type: none;
+	overflow: hidden;
+}
+
+nav a {
+	color: #e68d24;
+	text-decoration: none;
+	font-size: 0.8rem;
+	padding: 0.5em 0.1em 0.5em 0.1em;
+	text-align: center;
+	text-decoration: none;
+	text-transform: uppercase;
+	background-color: #b6511b;
+	display: block;
+}
+
+nav a:hover {
+	color: #240a00;
+}
+
+.banner {
+	background-image: url("../images/store-front.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	display: block;
+	margin: 0;
+}
+
+.banner p {
+	padding-top: 10em;
+	padding-bottom: 1em;
+	text-transform: uppercase;
+	color: #fff;
+	width: 100%;
+	text-align: left;
+	line-height:  20px;
+	margin: 0;
+	background-image: linear-gradient(to bottom, rgba(0,0,0,0), rgba(0,0,0,0.5));
+}
+
+.sub-banner {
+	background-color: #b6511b;
+}
+
+.p1, .p2 {
+	margin: 0;
+}
+
+.p1 {
+	padding-top: 1em;
+	color: #240a00;
+}
+
+.p2 {
+	padding-top: 0.5em;
+	padding-bottom: 1em;
+	color: white;
+	text-transform: uppercase;
+}
+
+h2 {
+	text-align: center;
+	text-transform: uppercase;
+	font-weight: 800;
+}
 /*
 h3 {
 	text-transform: uppercase;
