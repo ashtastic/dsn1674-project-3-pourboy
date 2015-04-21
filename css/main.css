@@ -166,7 +166,9 @@ h3 {
 	font-size: 0.75em;
 }
 
-.events
+.events {
+	clear: left;
+}
 /*
 h3 {
 	text-transform: uppercase;
