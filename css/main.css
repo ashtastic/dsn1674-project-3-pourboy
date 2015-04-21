@@ -166,8 +166,8 @@ h3 {
 	line-height: 1.3em;
 }
 
-.sapporo {
-	padding-bottom: 2em;
+.sapporo p {
+	color: #240a00;
 }
 
 .events {
