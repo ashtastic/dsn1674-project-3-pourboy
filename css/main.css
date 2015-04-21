@@ -113,7 +113,6 @@ h2 {
 .brunch, .salads, .entrees, .starters, .sandwiches, .desserts {
 	width: 50%;
 	float: left;
-	display: inline-block;
 	padding: 1em;
 }
 
@@ -132,23 +131,42 @@ h3 {
 	color: #240a00;
 }
 
-.beer {
-	background-color: #240a00;
-	clear: left;
-}
-
 .beer-on-tap {
 	clear: left;
 	color: #e68d24;
+	padding-bottom: 0.5em;
+	background-color: #240a00;
 }
 
+.millst-organic, .millst-tankhouse, .millst-cobblestone, .beaus, .steamwhistle, .wellington, .amsterdam, .creemore, .sapporo, .blanchedechambly {
+	width: 50%;
+	float: left;
+	padding: 1em;
+	margin: 0;
+	background-color: #240a00;
+}
 
+.millst-organic img, .millst-tankhouse img, .millst-cobblestone img, .beaus img, .steamwhistle img, .wellington img, .amsterdam img, .creemore img, .sapporo img, .blanchedechambly img {
+	width: 100%;
+}
 
+.millst-organic h3, .millst-tankhouse h3, .millst-cobblestone h3, .beaus h3, .steamwhistle h3, .wellington h3, .amsterdam h3, .creemore h3, .sapporo h3, .blanchedechambly h3 {
+	color: #e68d24;
+}
 
+.millst-organic p, .millst-tankhouse p, .millst-cobblestone p, .beaus p, .steamwhistle p, .wellington p, .amsterdam p, .creemore p, .sapporo p, .blanchedechambly p {
+	color: #b6511b;
+	text-transform: uppercase;
+	font-size: 0.8em;
+	margin: 0;
+	line-height: 1.3em;
+}
 
+.creemore h3 {
+	font-size: 0.75em;
+}
 
-
-
+.events
 /*
 h3 {
 	text-transform: uppercase;
