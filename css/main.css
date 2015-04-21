@@ -45,8 +45,8 @@ nav ul {
 nav a {
 	color: #e68d24;
 	text-decoration: none;
-	font-size: 0.8rem;
-	padding: 0.5em 0.1em 0.5em 0.1em;
+	font-size: 1rem;
+	padding: 0.5em 0em 0.5em 0em;
 	text-align: center;
 	text-decoration: none;
 	text-transform: uppercase;
@@ -55,7 +55,8 @@ nav a {
 }
 
 nav a:hover {
-	color: #240a00;
+	color: #4c1d0a;
+	background-color: #e68d24;
 }
 
 .banner {
@@ -90,10 +91,11 @@ nav a:hover {
 .p1 {
 	padding-top: 1em;
 	color: #240a00;
+	line-height: 1.2em;
 }
 
 .p2 {
-	padding-top: 0.5em;
+	padding-top: 0.7em;
 	padding-bottom: 1em;
 	color: white;
 	text-transform: uppercase;
@@ -127,7 +129,7 @@ h2 {
 h3 {
 	margin: 0;
 	text-transform: uppercase;
-	font-size: 0.8em;
+	font-size: 1em;
 	color: #240a00;
 }
 
@@ -152,6 +154,8 @@ h3 {
 
 .millst-organic h3, .millst-tankhouse h3, .millst-cobblestone h3, .beaus h3, .steamwhistle h3, .wellington h3, .amsterdam h3, .creemore h3, .sapporo h3, .blanchedechambly h3 {
 	color: #e68d24;
+	font-size: 1em;
+	line-height: 1em;
 }
 
 .millst-organic p, .millst-tankhouse p, .millst-cobblestone p, .beaus p, .steamwhistle p, .wellington p, .amsterdam p, .creemore p, .sapporo p, .blanchedechambly p {
@@ -162,8 +166,8 @@ h3 {
 	line-height: 1.3em;
 }
 
-.creemore h3 {
-	font-size: 0.75em;
+.sapporo {
+	padding-bottom: 2em;
 }
 
 .events {
