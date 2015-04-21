@@ -198,7 +198,7 @@ h3 {
 }
 
 .beer img, .music img, .trivia img, .mic img {
-	width: 75%;
+	width: 60%;
 }
 
 .beer, .music {
@@ -212,15 +212,124 @@ h3 {
 .beer h3, .music h3, .trivia h3, .mic h3 {
 	color: #b6511b;
 	text-transform: uppercase;
+	width: 100%;
 }
 
 .contact {
 	background-color: #e68d24;
 	clear: left;
+	color: #240a00;
 }
 
 .contact-content {
 	background-color: #e68d24;
+}
+
+.contact-content h3 {
+	color: #b6511b;
+	padding-top: 0.5em;
+	font-weight: 800;
 	padding-left: 1em;
 	padding-right: 1em;
+}
+
+.address {
+	color: #4c1d0a;
+	margin: 0;
+	padding-top: 0.5em;
+	padding-left: 1em;
+	padding-right: 1em;
+}
+
+.phone {
+	margin: 0;
+	padding-top: 0.5em;
+	padding-left: 1em;
+	padding-right: 1em;
+}
+
+.email a{
+	text-decoration: none;
+	color: #fff;
+	margin: 0;
+	padding-top: 0.5em;
+	padding-left: 1em;
+	padding-right: 1em;
+}
+
+.contact-content img {
+	width: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+.contact-content h4{
+	color: #240a00;
+	text-transform: uppercase;
+	padding-top: 0.5em;
+	margin: 0;
+	padding-left: 1em;
+	padding-right: 1em;
+}
+
+.hours {
+	color: #4c1d0a;
+	margin: 0;
+	font-weight: 800;
+	padding-left: 1em;
+	padding-right: 1em;
+}
+
+.atm {
+	text-align: center;
+	color: #fff;
+	text-transform: uppercase;
+	margin: 0;
+	padding-top: 1em;
+	padding-bottom: 2em;
+	padding-left: 1em;
+	padding-right: 1em;
+}
+
+.social {
+	background-color: #e68d24;
+	display: inline-block;
+	width: 100%;
+}
+
+.social a{
+	float: left;
+	margin: 0;
+	width: 25%;
+	background-color: #e68d24;
+	display: inline-block;
+	text-align: center;
+	padding: 0em 1em 0em 1em;
+}
+
+.twitter, .instagram, .facebook, .tumblr{
+	float: left;
+	padding: 0 0.5em 0 0.5em;
+	margin: 0;
+	overflow: hidden;
+	background-color: #e68d24;
+}
+
+footer {
+	clear: left;
+	background-color: #240a00;
+	padding: 1em;
+	text-align: center;
+	margin: 0;
+}
+
+footer a {
+	text-decoration: none;
+	color: #e68d24;
+}
+
+footer p {
+	color: #b6511b;
+	margin: 0;
+	padding-top: 0.5em;
 }
