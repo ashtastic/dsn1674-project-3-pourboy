@@ -102,7 +102,52 @@ h2 {
 	text-align: center;
 	text-transform: uppercase;
 	font-weight: 800;
+	color: #4c1d0a;
+	margin: 0;
+	padding-top: 1em;
+	padding-bottom: 0.5em;
+	font-size: 1.8em;
 }
+
+.brunch, .salads, .entrees, .starters, .sandwiches, .desserts {
+	width: 50%;
+	float: left;
+	display: inline-block;
+	padding: 1em;
+}
+
+.brunch img, .salads img, .entrees img, .starters img, .sandwiches img, .desserts img {
+	width: 100%;
+}
+
+.entrees, .desserts {
+	padding-bottom: 2.5em;
+}
+
+h3 {
+	margin: 0;
+	text-transform: uppercase;
+	font-size: 0.8em;
+	color: #240a00;
+}
+
+.beer {
+	background-color: #240a00;
+	clear: left;
+}
+
+.beer-on-tap {
+	clear: left;
+	color: #e68d24;
+}
+
+
+
+
+
+
+
+
 /*
 h3 {
 	text-transform: uppercase;
