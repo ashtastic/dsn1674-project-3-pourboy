@@ -117,9 +117,8 @@ h2 {
 	font-weight: 800;
 	color: #4c1d0a;
 	margin: 0;
-	padding-top: 1em;
-	padding-bottom: 0.5em;
-	font-size: 1.8em;
+	padding-top: 0.5em;
+	font-size: 2em;
 }
 
 .brunch, .salads, .entrees, .starters, .sandwiches, .desserts {
@@ -186,7 +185,6 @@ h3 {
 
 .events {
 	clear: left;
-	padding-bottom: 0.5em;
 }
 
 .beer, .music, .trivia, .mic {
@@ -213,21 +211,25 @@ h3 {
 	color: #b6511b;
 	text-transform: uppercase;
 	width: 100%;
+	font-size: 1.5em;
+	line-height: 1em;
 }
 
 .contact {
 	background-color: #e68d24;
 	clear: left;
 	color: #240a00;
+
 }
 
 .contact-content {
 	background-color: #e68d24;
+	text-align: center;
 }
 
 .contact-content h3 {
 	color: #b6511b;
-	padding-top: 0.5em;
+	padding-top: 1em;
 	font-weight: 800;
 	padding-left: 1em;
 	padding-right: 1em;
