@@ -4,8 +4,10 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="72px" height="72px" viewBox="0 0 72 72" style="enable-background:new 0 0 72 72;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:#26120B;stroke:#26120B;stroke-width:0.73;stroke-miterlimit:10;}
+	.st0{fill:#B65327;stroke:#26120B;stroke-width:2;stroke-miterlimit:10;}
 </style>
-<path class="st0" d="M53.7,6.2c0,0,2.6,8.4,0,16.1c-2.5,7.6-8.2,27.9-5.3,43.3c0.1,0.3-24.9,0.3-24.8,0c3-15.4-2.7-35.6-5.3-43.3
-	c-2.6-7.7,0-16.1,0-16.1L53.7,6.2z"/>
+<g>
+	<path class="st0" d="M53.7,6.2c0,0,2.6,8.4,0,16.1c-2.5,7.6-8.2,27.9-5.3,43.3c0.1,0.3-24.9,0.3-24.8,0c3-15.4-2.7-35.6-5.3-43.3
+		c-2.6-7.7,0-16.1,0-16.1L53.7,6.2z"/>
+</g>
 </svg>

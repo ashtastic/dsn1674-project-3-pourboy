@@ -124,7 +124,8 @@ h2 {
 .brunch, .salads, .entrees, .starters, .sandwiches, .desserts {
 	width: 50%;
 	float: left;
-	padding: 1em;
+	padding: 0.5em;
+	text-align: center;
 }
 
 .brunch img, .salads img, .entrees img, .starters img, .sandwiches img, .desserts img {
@@ -140,6 +141,7 @@ h3 {
 	text-transform: uppercase;
 	font-size: 1em;
 	color: #240a00;
+	line-height: 1em;
 }
 
 .beer-on-tap {
@@ -179,24 +181,25 @@ h3 {
 	color: #240a00;
 }
 
-.sapporo, .cobblestone {
+.cobblestone {
 	padding-bottom: 2em;
 }
 
 .events {
 	clear: left;
+	padding-bottom: 0.5em;
 }
 
 .beer, .music, .trivia, .mic {
 	width: 50%;
 	float: left;
-	padding: 1em;
+	padding: 0.5em;
 	text-align: center;
 	line-height: 1em;
 }
 
 .beer img, .music img, .trivia img, .mic img {
-	width: 60%;
+	width: 100%;
 }
 
 .beer, .music {
@@ -205,14 +208,6 @@ h3 {
 
 .trivia, .mic {
 	padding-bottom: 2em;
-}
-
-.beer h3, .music h3, .trivia h3, .mic h3 {
-	color: #b6511b;
-	text-transform: uppercase;
-	width: 100%;
-	font-size: 1.5em;
-	line-height: 1em;
 }
 
 .contact {

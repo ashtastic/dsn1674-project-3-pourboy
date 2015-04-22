@@ -4,15 +4,17 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="72px" height="72px" viewBox="0 0 72 72" style="enable-background:new 0 0 72 72;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:#26120B;}
-	.st1{fill:none;stroke:#FFFFFF;stroke-width:0.8035;stroke-miterlimit:10;}
-	.st2{fill:none;stroke:#FFFFFF;stroke-width:0.9168;stroke-miterlimit:10;}
-	.st3{fill:#FFFFFF;stroke:#26120B;stroke-width:2.3151;stroke-miterlimit:10;}
-	.st4{fill:#26120B;stroke:#26120B;stroke-miterlimit:10;}
+	.st0{fill:#E68E24;stroke:#26120B;stroke-width:2;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#26120B;stroke-width:2;stroke-miterlimit:10;}
+	.st2{fill:#B65327;stroke:#26120B;stroke-width:2;stroke-miterlimit:10;}
+	.st3{fill:#4C2010;stroke:#26120B;stroke-width:2.3151;stroke-miterlimit:10;}
+	.st4{fill:#FFFFFF;stroke:#26120B;stroke-miterlimit:10;}
 </style>
-<circle class="st0" cx="36" cy="36" r="33"/>
-<circle class="st1" cx="36" cy="36" r="24.2"/>
-<circle class="st2" cx="36" cy="36" r="19.4"/>
-<circle class="st3" cx="36" cy="36" r="7"/>
-<circle class="st4" cx="36" cy="36" r="1.8"/>
+<g>
+	<circle class="st0" cx="36" cy="36" r="33"/>
+	<circle class="st1" cx="36" cy="36" r="26.8"/>
+	<circle class="st2" cx="36" cy="36" r="21.4"/>
+	<circle class="st3" cx="36" cy="36" r="7"/>
+	<circle class="st4" cx="36" cy="36" r="1.8"/>
+</g>
 </svg>
