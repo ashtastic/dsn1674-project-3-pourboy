@@ -160,7 +160,7 @@ h3 {
 }
 
 .millst-organic img, .millst-tankhouse img, .millst-cobblestone img, .beaus img, .steamwhistle img, .wellington img, .amsterdam img, .creemore img, .sapporo img, .blanchedechambly img {
-	width: 90%;
+	width: 100%;
 }
 
 .millst-organic h3, .millst-tankhouse h3, .millst-cobblestone h3, .beaus h3, .steamwhistle h3, .wellington h3, .amsterdam h3, .creemore h3, .sapporo h3, .blanchedechambly h3 {
@@ -214,7 +214,6 @@ h3 {
 	background-color: #e68d24;
 	clear: left;
 	color: #240a00;
-
 }
 
 .contact-content {
