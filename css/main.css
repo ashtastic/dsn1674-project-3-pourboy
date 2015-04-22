@@ -13,7 +13,6 @@ body {
 
 h1 {
 	background-color: #240a00;
-	font-weight: 800;
 	color: #fff;
 	text-transform: uppercase;
 	padding-top: 0.5em;
@@ -229,7 +228,6 @@ h3 {
 .contact-content h3 {
 	color: #b6511b;
 	padding-top: 1em;
-	font-weight: 800;
 	padding-left: 1em;
 	padding-right: 1em;
 }
@@ -276,7 +274,6 @@ h3 {
 .hours {
 	color: #4c1d0a;
 	margin: 0;
-	font-weight: 800;
 	padding-left: 1em;
 	padding-right: 1em;
 }
