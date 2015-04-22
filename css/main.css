@@ -76,8 +76,8 @@ nav a:hover {
 .banner p {
 	padding-top: 6em;
 	padding-bottom: 1em;
-	padding-left: 0.5em;
-	padding-right: 0.5em;
+	padding-left: 0.25em;
+	padding-right: 0.25em;
 	text-transform: uppercase;
 	color: #fff;
 	width: 100%;
@@ -94,8 +94,8 @@ nav a:hover {
 
 .p1, .p2 {
 	margin: 0;
-	padding-left: 1em;
-	padding-right: 1em;
+	padding-left: 0.5em;
+	padding-right: 0.5em;
 }
 
 .p1 {
@@ -125,7 +125,6 @@ h2 {
 	width: 50%;
 	float: left;
 	padding: 0.5em;
-	text-align: center;
 }
 
 .brunch img, .salads img, .entrees img, .starters img, .sandwiches img, .desserts img {
@@ -147,8 +146,8 @@ h3 {
 .beer-on-tap {
 	clear: left;
 	color: #e68d24;
-	padding-bottom: 0.5em;
 	background-color: #240a00;
+	padding-top: 0.5em;
 }
 
 .millst-organic, .millst-tankhouse, .millst-cobblestone, .beaus, .steamwhistle, .wellington, .amsterdam, .creemore, .sapporo, .blanchedechambly {
@@ -188,6 +187,7 @@ h3 {
 .events {
 	clear: left;
 	padding-bottom: 0.5em;
+	color: #b6511b;
 }
 
 .beer, .music, .trivia, .mic {
@@ -198,8 +198,12 @@ h3 {
 	line-height: 1em;
 }
 
+.beer h3, .music h3, .trivia h3, .mic h3 {
+	color: #e68d24;
+}
+
 .beer img, .music img, .trivia img, .mic img {
-	width: 100%;
+	width: 60%;
 }
 
 .beer, .music {
